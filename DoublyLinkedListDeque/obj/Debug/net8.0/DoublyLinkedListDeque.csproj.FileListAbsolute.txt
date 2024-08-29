@@ -1,0 +1,14 @@
+C:\Users\vasil\Desktop\C#\DoublyLinkedListDeque\DoublyLinkedListDeque\bin\Debug\net8.0\DoublyLinkedListDeque.exe
+C:\Users\vasil\Desktop\C#\DoublyLinkedListDeque\DoublyLinkedListDeque\bin\Debug\net8.0\DoublyLinkedListDeque.deps.json
+C:\Users\vasil\Desktop\C#\DoublyLinkedListDeque\DoublyLinkedListDeque\bin\Debug\net8.0\DoublyLinkedListDeque.runtimeconfig.json
+C:\Users\vasil\Desktop\C#\DoublyLinkedListDeque\DoublyLinkedListDeque\bin\Debug\net8.0\DoublyLinkedListDeque.dll
+C:\Users\vasil\Desktop\C#\DoublyLinkedListDeque\DoublyLinkedListDeque\bin\Debug\net8.0\DoublyLinkedListDeque.pdb
+C:\Users\vasil\Desktop\C#\DoublyLinkedListDeque\DoublyLinkedListDeque\obj\Debug\net8.0\DoublyLinkedListDeque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Desktop\C#\DoublyLinkedListDeque\DoublyLinkedListDeque\obj\Debug\net8.0\DoublyLinkedListDeque.AssemblyInfoInputs.cache
+C:\Users\vasil\Desktop\C#\DoublyLinkedListDeque\DoublyLinkedListDeque\obj\Debug\net8.0\DoublyLinkedListDeque.AssemblyInfo.cs
+C:\Users\vasil\Desktop\C#\DoublyLinkedListDeque\DoublyLinkedListDeque\obj\Debug\net8.0\DoublyLinkedListDeque.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\C#\DoublyLinkedListDeque\DoublyLinkedListDeque\obj\Debug\net8.0\DoublyLinkedListDeque.dll
+C:\Users\vasil\Desktop\C#\DoublyLinkedListDeque\DoublyLinkedListDeque\obj\Debug\net8.0\refint\DoublyLinkedListDeque.dll
+C:\Users\vasil\Desktop\C#\DoublyLinkedListDeque\DoublyLinkedListDeque\obj\Debug\net8.0\DoublyLinkedListDeque.pdb
+C:\Users\vasil\Desktop\C#\DoublyLinkedListDeque\DoublyLinkedListDeque\obj\Debug\net8.0\DoublyLinkedListDeque.genruntimeconfig.cache
+C:\Users\vasil\Desktop\C#\DoublyLinkedListDeque\DoublyLinkedListDeque\obj\Debug\net8.0\ref\DoublyLinkedListDeque.dll
